@@ -2,7 +2,7 @@
 
 A beautiful web application for creating, designing, and sharing shayaris and poetry with stunning visual backgrounds and customizable text styling.
 
-🌐 **Live Demo:** [verse-craft.pages.dev](https://verse-craft.pages.dev)
+🌐 **Live Demo:** [versecraft.pages.dev](https://verse-craft.pages.dev)
 
 ---
 
